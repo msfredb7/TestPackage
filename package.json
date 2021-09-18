@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/msfredb7/TestPackage#readme",
   "publishConfig": {
-   "@msfredb7:registry": "https://npm.pkg.github.com"
+   "msfredb7:registry": "https://npm.pkg.github.com"
   }
 }
