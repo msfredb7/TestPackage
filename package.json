@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/msfredb7/TestPackage/issues"
   },
-  "homepage": "https://github.com/msfredb7/TestPackage#readme"
+  "homepage": "https://github.com/msfredb7/TestPackage#readme",
+  "publishConfig": {
+   "@msfredb7:registry": "https://npm.pkg.github.com"
+  }
 }
