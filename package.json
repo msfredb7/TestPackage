@@ -1,5 +1,5 @@
 {
-  "name": "com.msfredb7.test-package",
+  "name": "@msfredb7/test-package",
   "version": "1.0.0",
   "description": "a test package",
   "main": "index.js",
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/msfredb7/TestPackage#readme",
   "publishConfig": {
-   "msfredb7:registry": "https://npm.pkg.github.com"
+   "@msfredb7:registry": "https://npm.pkg.github.com"
   }
 }
