@@ -1,5 +1,5 @@
 {
-  "name": "msfredb-test-package",
+  "name": "msfredb7/TestPackage",
   "version": "1.0.0",
   "description": "a test package",
   "main": "index.js",
